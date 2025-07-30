@@ -47,4 +47,5 @@ Password Strength Checker Flow:
 4. Display a rating: Weak / Moderate / Strong
 
 ## 📸 Screenshots
-<img width="989" height="203" alt="image" src="https://github.com/user-attachments/assets/d80ad998-b81a-43bf-a767-a47b86f50d6f" />
+<img width="969" height="173" alt="image" src="https://github.com/user-attachments/assets/c4dcb851-c25b-48b8-839a-1a41ecc46e8d" />
+
