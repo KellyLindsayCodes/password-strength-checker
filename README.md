@@ -20,22 +20,7 @@ This tool demonstrates an understanding of:
 - ✅ Easily extendable and modifiable
 
 ## 🚀 Usage
+<pre> ```bash python main.py ``` </pre>
 
-Run the program:
-bash
-Copy
-Edit
-python main.py
-Example Session:
-pgsql
-Copy
-Edit
-Welcome to the Python Password Strength Checker 🔐
 
-Enter your password: Sunshine123!
 
-Your password strength is: Moderate
-
-Would you like to test another password? (Y/N): n
-
-Thank you for using the checker. Stay secure!
