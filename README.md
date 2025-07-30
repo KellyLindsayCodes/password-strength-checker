@@ -20,9 +20,11 @@ This tool demonstrates an understanding of:
 - ✅ Easily extendable and modifiable
 
 ## 🚀 Usage
+### Run the program:
 ```bash
 python main.py
 ```
+### Example session:
 ```bash
 Enter your password: Sunshine1!
 Password strength score: 5
