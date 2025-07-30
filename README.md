@@ -11,13 +11,13 @@ This tool demonstrates an understanding of:
 - Modular and readable code structure
 
 ✨ Features
-✅ Accepts user input securely via CLI
-✅ Evaluates password strength based on length, character types, and complexity
-✅ Real-time feedback with helpful rating messages
-✅ Graceful handling of empty or invalid input
-✅ Clean and beginner-friendly Python code
-✅ Custom scoring logic for password classification
-✅ Easily extendable and modifiable
+- ✅ Accepts user input securely via CLI
+- ✅ Evaluates password strength based on length, character types, and complexity
+- ✅ Real-time feedback with helpful rating messages
+- ✅ Graceful handling of empty or invalid input
+- ✅ Clean and beginner-friendly Python code
+- ✅ Custom scoring logic for password classification
+- ✅ Easily extendable and modifiable
 
 🚀 Usage
 Run the program:
