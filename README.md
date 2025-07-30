@@ -3,21 +3,15 @@ A python command-line tool that checks the strength of a password and classfies 
 
 ## 🎯 Project Overview
 This tool demonstrates an understanding of:
-- Basic Python programming concepts
 - String handling and character analysis
 - Conditional logic and loops
 - Input validation techniques
-- User-focused CLI interactions
-- Modular and readable code structure
 
 ## ✨ Features
 - ✅ Accepts user input securely via CLI
 - ✅ Evaluates password strength based on length, character types, and complexity
 - ✅ Real-time feedback with helpful rating messages
-- ✅ Graceful handling of empty or invalid input
-- ✅ Clean and beginner-friendly Python code
 - ✅ Custom scoring logic for password classification
-- ✅ Easily extendable and modifiable
 
 ## 🚀 Usage
 ### Run the program:
@@ -49,3 +43,18 @@ Password Strength Checker Flow:
 ## 📸 Screenshots
 <img width="969" height="173" alt="image" src="https://github.com/user-attachments/assets/c4dcb851-c25b-48b8-839a-1a41ecc46e8d" />
 
+## 🔮 Future Enhancements
+- Add real-time GUI version with Tkinter
+- Show score breakdown (e.g., “+1 for uppercase, +1 for numbers”)
+- Integrate password hashing for secure storage examples
+- Export password ratings to a log file
+- Add password generation functionality
+- Implement dictionary word checks for weak password detection
+
+## 🙏 Acknowledgments
+Developed as part of my Python learning journey.
+Inspired by real-world password security concerns and the importance of strong credential practices.
+
+##  📝 License
+This project is open for learning and personal portfolio use.
+Developed by Kelly Lindsay – Cybersecurity Student
