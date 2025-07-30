@@ -23,5 +23,9 @@ This tool demonstrates an understanding of:
 ```bash
 python main.py
 ```
-
+```bash
+Enter your password: Sunshine1!
+Password strength score: 5
+Strong
+```
 
