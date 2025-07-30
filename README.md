@@ -20,7 +20,8 @@ This tool demonstrates an understanding of:
 - ✅ Easily extendable and modifiable
 
 ## 🚀 Usage
-<pre> python main.py </pre>
-
+```bash
+python main.py
+```
 
 
