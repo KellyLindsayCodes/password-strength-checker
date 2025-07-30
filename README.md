@@ -30,4 +30,21 @@ Enter your password: Sunshine1!
 Password strength score: 5
 Strong
 ```
+## 📋 Password Evaluation Logic
+The program checks:
+- ✅ Password length
+- ✅ Use of uppercase and lowercase letters
+- ✅ Presence of numbers
+- ✅ Special characters
+- ❌ No leading/trailing spaces
+- ❌ No accented or non-ASCII characters
 
+## 🧠 Program Logic
+Password Strength Checker Flow:
+1. Accept password input
+2. Validate the format
+3. Score based on character types
+4. Display a rating: Weak / Moderate / Strong
+
+## 📸 Screenshots
+<img width="989" height="203" alt="image" src="https://github.com/user-attachments/assets/d80ad998-b81a-43bf-a767-a47b86f50d6f" />
