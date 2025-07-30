@@ -1,7 +1,7 @@
 # 🔐 Python Password Strength Checker
 A python command-line tool that checks the strength of a password and classfies it as Weak, Moderate or Strong, developed as part of my cybersecurity studies. 
 
-🎯 Project Overview
+##🎯 Project Overview
 This tool demonstrates an understanding of:
 - Basic Python programming concepts
 - String handling and character analysis
@@ -10,7 +10,7 @@ This tool demonstrates an understanding of:
 - User-focused CLI interactions
 - Modular and readable code structure
 
-✨ Features
+##✨ Features
 - ✅ Accepts user input securely via CLI
 - ✅ Evaluates password strength based on length, character types, and complexity
 - ✅ Real-time feedback with helpful rating messages
@@ -19,7 +19,8 @@ This tool demonstrates an understanding of:
 - ✅ Custom scoring logic for password classification
 - ✅ Easily extendable and modifiable
 
-🚀 Usage
+##🚀 Usage
+
 Run the program:
 bash
 Copy
